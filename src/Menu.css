@@ -1,14 +1,15 @@
 .navbar{
     height:80px;
     background-color: rgba(0,0,0,0.7);
-    color:darkorange;
-    margin-right:80px;
+    padding: 20px;
+   
 }
 .icon{
     display:inline-block;
     font-family:fantasy;
-    font-size:20px;
-    margin:auto;
+    font-size:30px;
+    color:darkorange;
+    margin-right:80px;
     width:auto;
 }
 .links{
