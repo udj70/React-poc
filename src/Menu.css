@@ -1,0 +1,22 @@
+.navbar{
+    height:80px;
+    background-color: rgba(0,0,0,0.7);
+    color:darkorange;
+    margin-right:80px;
+}
+.icon{
+    display:inline-block;
+    font-family:fantasy;
+    font-size:20px;
+    margin:auto;
+    width:auto;
+}
+.links{
+    display:inline-block;
+    font-size:20px;
+    padding:3px;
+    color:white;
+}
+.links:hover{
+    background-color:black;
+}
